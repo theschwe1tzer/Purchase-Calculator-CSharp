@@ -1,0 +1,13 @@
+# Временные файлы Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки с результатами сборки (самый важный мусор)
+bin/
+obj/
+
+# Прочие системные файлы
+.DS_Store
+Thumbs.db
